@@ -1,0 +1,5 @@
+selenium~=4.35.0
+urllib3~=2.5.0
+progressbar2~=4.5.0
+pwinput~=1.0.3
+requests~=2.32.5
